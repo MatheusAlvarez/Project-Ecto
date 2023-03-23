@@ -16,6 +16,8 @@ Project-Ecto é um projeto criado para o processo seletivo da Ecto.
 
 O desafio proposto para este projeto era a criação de uma página web. Tive que desenvolver o projeto a partir de um protótipo.
 
+Link do projeto: https://ecto-matheusmaiaalvarez.netlify.app/
+
 ---
 ## 🎨 Layout
 ![Widget1](https://github.com/MatheusAlvarez/Project-Ecto/blob/main/_assets/01.png)<br>
